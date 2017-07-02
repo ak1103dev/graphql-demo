@@ -1,0 +1,16 @@
+{
+  "name": "graphql-demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:ak1103dev/graphql-demo.git",
+  "author": "ak1103dev <ak.apichan1103@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "graphql": "^0.10.3",
+    "graphql-server-express": "^1.0.0",
+    "graphql-tools": "^1.1.0"
+  }
+}
